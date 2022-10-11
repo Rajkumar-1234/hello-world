@@ -1,7 +1,7 @@
 total = 0
 count = 0
 while (True):
-    inp = input('Enter a number: ')
+    inp = input('Enter one number from the user: ')
     if inp == 'done':
         break
     try:
