@@ -10,7 +10,7 @@ while (True):
         print('Invalid input')
         continue
     total = total + value
-    count = count + 1
+    count += 1
 
 average = total / count
 print('Average:', average)
